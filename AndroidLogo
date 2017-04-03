@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link type="text/css" rel ="stylesheet" href="androidlogo.css">
+  </head>
+  <body>
+    <div class="android">
+      <div id="head"></div>
+      <div id="l_ant"></div>
+      <div id="r_ant"></div>
+      <div id="r_eye"></div>
+      <div id="l_eye"></div>
+
+    </div>
+  </body>
+
+
+
+</html>
